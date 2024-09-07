@@ -2350,7 +2350,7 @@
 
 - type: entity
   parent: DrinkGlass
-  id: DrinkPeoplePleaser
+  id: DrinkPeoplePleaserGlass
   suffix: people pleaser
   components:
   - type: SolutionContainerManager
@@ -2366,7 +2366,7 @@
 
 - type: entity
   parent: DrinkGlass
-  id: DrinkHeartOfTheFuture
+  id: DrinkHeartOfTheFutureGlass
   suffix: heart of the future
   components:
   - type: SolutionContainerManager
