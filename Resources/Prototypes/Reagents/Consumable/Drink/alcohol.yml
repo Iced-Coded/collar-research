@@ -1955,3 +1955,34 @@
           time: 1.0
           type: Remove
   fizziness: 0.25
+
+- type: reagent
+  id: PeoplePleaser
+  name: reagent-name-peoplepleaser
+  parent: BaseAlcohol
+  desc: reagent-desc-peoplepleaser
+  physicalDesc: reagent-physical-desc-sweet
+  flavor: delightfully
+  color: "#c5c8bd"
+  metamorphicSprite:
+    sprite: Objects/Consumable/Drinks/peoplepleaser.rsi
+    state: icon_empty
+  metamorphicMaxFillLevels: 4
+  metamorphicFillBaseName: fill-
+  metamorphicChangeColor: false
+
+- type: reagent
+  id: HeartOfTheFuture
+  name: reagent-name-heartofthefuture
+  parent: BaseAlcohol
+  desc: reagent-desc-heartofthefuture
+  physicalDesc: reagent-physical-desc-strong-smelling
+  flavor: cosmopolitan
+  color: "#abb5ac"
+  metamorphicSprite:
+    sprite: Objects/Consumable/Drinks/heartofthefuture.rsi
+    state: icon_empty
+  metamorphicMaxFillLevels: 4
+  metamorphicFillBaseName: fill-
+  metamorphicChangeColor: false
+

@@ -1181,3 +1181,30 @@
       amount: 1
   products:
     Cola: 4
+
+- type: reaction
+  id: PeoplePleaser
+  reactants:
+    Sugar:
+      amount: 1
+      # TODO replace Sugar with Honey once added
+    JuiceLemon:
+      amount: 1
+    Tequila:
+      amount: 1
+  products:
+    PeoplePleaser: 3
+
+- type: reaction
+  id: HeartOfTheFuture
+  reactants:
+    GinTonic:
+      amount: 1
+    JuiceLime:
+      amount: 1
+    JuiceOrange:
+      amount: 1
+    JuiceLemon:
+      amount: 1
+  products:
+    PeoplePleaser: 3

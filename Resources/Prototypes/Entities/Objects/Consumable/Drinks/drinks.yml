@@ -2347,3 +2347,35 @@
     - type: Icon
       sprite: Objects/Consumable/Drinks/bloodglass.rsi
       state: icon
+
+- type: entity
+  parent: DrinkGlass
+  id: DrinkPeoplePleaser
+  suffix: people pleaser
+  components:
+  - type: SolutionContainerManager
+    solutions:
+      drink:
+        maxVol: 30
+        reagents:
+        - ReagentId: PeoplePleaser
+          Quantity: 30
+  - type: Icon
+    sprite: Objects/Consumable/Drinks/peoplepleaser.rsi
+    state: icon
+
+- type: entity
+  parent: DrinkGlass
+  id: DrinkHeartOfTheFuture
+  suffix: heart of the future
+  components:
+  - type: SolutionContainerManager
+    solutions:
+      drink:
+        maxVol: 30
+        reagents:
+        - ReagentId: HeartOfTheFuture
+          Quantity: 30
+  - type: Icon
+    sprite: Objects/Consumable/Drinks/heartofthefuture.rsi
+    state: icon

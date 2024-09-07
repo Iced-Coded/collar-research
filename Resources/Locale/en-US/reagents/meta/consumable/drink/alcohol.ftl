@@ -279,3 +279,9 @@ reagent-desc-watermelon-wakeup = If you want to be awake, this will do it... Als
 
 reagent-name-rubberneck = rubberneck
 reagent-desc-rubberneck = A popular drink amongst those adhering to an all synthetic diet.
+
+reagent-name-peoplepleaser = people pleaser
+reagent-desc-peoplepleaser = A drink, which will totally please your thirst and taste buds.
+
+reagent-name-heartofthefuture = heart of the future
+reagent-desc-heartofthefuture = A citrusy glimpse into the future, followed by an immediate snap back to reality by gin.

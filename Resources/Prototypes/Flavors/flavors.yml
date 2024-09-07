@@ -1129,3 +1129,7 @@
   flavorType: Complex
   description: flavor-complex-compressed-meat
   
+- type: flavor
+  id: delightfully
+  flavorType: Complex
+  description: flavor-complex-delightfully
